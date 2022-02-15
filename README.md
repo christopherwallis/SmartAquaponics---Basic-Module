@@ -5,3 +5,5 @@ Low level module used to control aquaponics system.
 - Sensor data and system behavior is passed to higher level modules and recorded on server for analytics.
 
 Coded using Arduino language, designed for use on ATMega128 with custom PCB and sensors. System to communicate with ESP32 via serial (requires level conversion) for external conectivity and data logging.
+
+Project created as part of the "Smart Home Solution" final year project by Christopher Wallis studying BEng (Honours) (Electrical) at the University of Newcastle, NSW, Australia in 2017/2018
